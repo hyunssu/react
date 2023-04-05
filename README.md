@@ -71,3 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 <a href="https://naver.com">Naver</a>
+
+<a href="https://j8a209.p.ssafy.io/ssafy" target="_blank"><img src="https://don-jo.s3.ap-northeast-2.amazonaws.com/img/plugin/multipartFile20230405113142" alt="dong-jo" /></a>
+
+
